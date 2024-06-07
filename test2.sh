@@ -10,6 +10,7 @@ tput cup 10 9; echo "5 - Doi IP DHCP tu dong cua Card mang"
 tput cup 11 9; echo "6 - Dang ky lai Subscription"
 tput cup 12 9; echo "7 - Truyen tap tin bang giao thuc SCP"
 tput cup 13 9; echo "8 - Huy dang ky Subscription"
+tput cup 14 9; echo "9 - Chuc nang dang cap nhat"
 echo "Ban chon chuc nang so may: ";read choice
 case $choice in
 	1) 
